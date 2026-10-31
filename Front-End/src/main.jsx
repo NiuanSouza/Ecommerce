@@ -36,16 +36,18 @@ const router = createBrowserRouter([
         element: <AuthPage mode="register" />,
       },
       {
-        path: "/perfil",
+        path: "perfil",
         element: <Profile />,
       },
       {
-        path: "/orders",
+        path: "orders",
         element: <Orders />,
       },
     ],
   },
-]);
+], {
+  basename: "/ecommerce",
+});
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>

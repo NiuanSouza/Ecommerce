@@ -1,6 +1,6 @@
 {
   "orderId": 2,
-  "liveUrl": "https://ecommer-2-0-1.onrender.com/",
+  "liveUrl": "https://niuansouza.duckdns.org/ecommerce/",
   "description": "E-commerce completo (Full-Stack) com carrinho dinâmico, busca em tempo real, histórico de pedidos e autenticação JWT. Desenvolvido com React, Node.js e PostgreSQL.",
   "imagesCount": 2,
   "technologies": {

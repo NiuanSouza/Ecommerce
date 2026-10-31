@@ -2,7 +2,7 @@
 
 > Este é um projeto de E-commerce completo (Full-Stack), desenvolvido para oferecer uma experiência de compra fluida. Conta com busca em tempo real, gestão dinâmica de carrinho, autenticação segura (JWT) e histórico de pedidos para os clientes.
 
-**🔗 Acesse o site aqui:** [https://ecommer-2-0-1.onrender.com/](https://ecommer-2-0-1.onrender.com/)
+**🔗 Acesse o site aqui:** [https://niuansouza.duckdns.org/ecommerce/](https://niuansouza.duckdns.org/ecommerce/)
 
 ## 🚀 Visão Geral
 Neste sistema, os usuários podem navegar por uma vitrine de produtos, utilizar uma barra de pesquisa para filtrá-los em tempo real e gerenciar itens no carrinho com atualização automática de valores. O usuário pode criar uma conta, fazer login seguro, finalizar suas compras e acompanhar seu histórico de pedidos anteriores em uma interface responsiva.
